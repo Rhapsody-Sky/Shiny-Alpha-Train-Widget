@@ -26,7 +26,7 @@ If you want to replace only one of the sprites then load the non-shiny image int
 
 So let's say you want to only have the moving part with a shiny version. Then upload the normal "end" image into the "shiny end" box. 
 
-# You want to thank me?:
+# You want to thank me?
 If you want to do me a favour, follow me on twitch or twitter, put me in your streams "thx to these awesome people"-box or maybe buy me a coffee via my donation button on twitch. 
 # But there is no need to. 
 Knowing that people use my work in their streams make me happy though, so send me a pn!
