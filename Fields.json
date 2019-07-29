@@ -130,6 +130,133 @@
     "type": "video-input",
     "label": "End sprite (video)"
   },
+   "hiddenMultipleSprites": {
+    "type": "hidden",
+    "label": "MULTIPLE SPRITE OPTIONS"
+  },
+  "multipleCharSpriteQuestion": {
+    "type": "dropdown",
+    "label": "Use multiple character sprites?",
+    "value": "No",
+    "options": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+    "multipleEndSpriteQuestion": {
+    "type": "dropdown",
+    "label": "Use multiple end sprites?",
+    "value": "No",
+    "options": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+    "multiSpriteStartWidth1": {
+    "type": "number",
+    "label": "Moving sprite 2 width (px)",
+    "value": 25
+  },
+  "multiSpriteStartImage1": {
+    "type": "image-input",
+    "label": "Moving sprite 2 (image)"
+  },
+  "multiSpriteStartVideo1": {
+    "type": "video-input",
+    "label": "Moving sprite 2 (video)"
+  },
+  "multiSpriteEndWidth1": {
+    "type": "number",
+    "label": "End sprite 2 width (px)",
+    "value": 25
+  },
+  "multiSpriteEndImage1": {
+    "type": "image-input",
+    "label": "End sprite 2 (image)"
+  },
+  "multiSpriteEndVideo1": {
+    "type": "video-input",
+    "label": "End sprite 2 (video)"
+  },
+ "multiSpriteStartWidth2": {
+    "type": "number",
+    "label": "Moving sprite 3 width (px)",
+    "value": 25
+  },
+  "multiSpriteStartImage2": {
+    "type": "image-input",
+    "label": "Moving sprite 3 (image)"
+  },
+  "multiSpriteStartVideo2": {
+    "type": "video-input",
+    "label": "Moving sprite 3 (video)"
+  },
+  "multiSpriteEndWidth2": {
+    "type": "number",
+    "label": "End sprite 3 width (px)",
+    "value": 25
+  },
+  "multiSpriteEndImage2": {
+    "type": "image-input",
+    "label": "End sprite 3 (image)"
+  },
+  "multiSpriteEndVideo2": {
+    "type": "video-input",
+    "label": "End sprite 3 (video)"
+  },
+      "multiSpriteStartWidth3": {
+    "type": "number",
+    "label": "Moving sprite 4 width (px)",
+    "value": 25
+  },
+  "multiSpriteStartImage3": {
+    "type": "image-input",
+    "label": "Moving sprite 4 (image)"
+  },
+  "multiSpriteStartVideo3": {
+    "type": "video-input",
+    "label": "Moving sprite 4 (video)"
+  },
+  "multiSpriteEndWidth3": {
+    "type": "number",
+    "label": "End sprite 4 width (px)",
+    "value": 25
+  },
+  "multiSpriteEndImage3": {
+    "type": "image-input",
+    "label": "End sprite 4 (image)"
+  },
+  "multiSpriteEndVideo3": {
+    "type": "video-input",
+    "label": "End sprite 4 (video)"
+  },
+      "multiSpriteStartWidth4": {
+    "type": "number",
+    "label": "Moving sprite 5 width (px)",
+    "value": 25
+  },
+  "multiSpriteStartImage4": {
+    "type": "image-input",
+    "label": "Moving sprite 5 (image)"
+  },
+  "multiSpriteStartVideo4": {
+    "type": "video-input",
+    "label": "Moving sprite 5 (video)"
+  },
+  "multiSpriteEndWidth4": {
+    "type": "number",
+    "label": "End sprite 5 width (px)",
+    "value": 25
+  },
+  "multiSpriteEndImage4": {
+    "type": "image-input",
+    "label": "End sprite 5 (image)"
+  },
+  "multiSpriteEndVideo4": {
+    "type": "video-input",
+    "label": "End sprite 5 (video)"
+  },
+  
   "hidden5": {
     "type": "hidden",
     "label": "TEXT OPTIONS"
@@ -212,6 +339,28 @@
   	"type": "text",
     "label": "Icon padding",
     "value": "0 10px"
+  },
+    "hiddenShiny": {
+    "type": "hidden",
+    "label": "SHINY OPTIONS"
+  },
+    "shinyQuestion": {
+    "type": "dropdown",
+    "label": "Do you want to use shiny (rare) versions of your sprites?",
+    "value": "No",
+    "options": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "shinyOverlayQuestion": {
+    "type": "dropdown",
+    "label": "Use Shiny sprite as overlay?",
+    "value": "No",
+    "options": {
+      "yes": "Yes",
+      "no": "No"
+    }
   },
   "shinySpriteStartImage": {
     "type": "image-input",
