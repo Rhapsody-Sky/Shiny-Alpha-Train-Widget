@@ -1,0 +1,238 @@
+{
+  "widgetDuration": {
+    "type": "hidden",
+    "value": 6
+  },
+  "trainTheme": {
+    "type": "dropdown",
+    "label": "Train theme",
+    "value": "line",
+    "options": {
+      "line": "Line",
+      "sprites": "Custom sprites"
+    }
+  },
+  "trainPlacementMode": {
+    "type": "dropdown",
+    "label": "Train placement mode",
+    "value": "off",
+    "options": {
+      "off": "Off",
+      "on": "On"
+    }
+  },
+  "hidden1": {
+    "type": "hidden",
+    "label": "TRAIN OPTIONS"
+  },
+  "trainTime": {
+    "type": "number",
+    "label": "Train time (secs)",
+    "value": 300
+  },
+  "trainType": {
+    "type": "dropdown",
+    "label": "Train type",
+    "value": "subscriber-latest",
+    "options": {
+      "subscriber-latest": "Sub train",
+      "cheer-latest": "Cheer train",
+      "follower-latest": "Follow train"
+    }
+  },
+  "trainOrientation": {
+    "type": "dropdown",
+    "label": "Train orientation",
+    "value": "horizontal",
+    "options": {
+      "horizontal": "Horizontal",
+      "vertical": "Vertical"
+    }
+  },
+  "trainDirection": {
+    "type": "dropdown",
+    "label": "Train direction",
+    "value": "left",
+    "options": {
+      "left": "Right to left / Bottom to top",
+      "right": "Left to right / Top to bottom"
+    }
+  },
+  "trainWidth": {
+    "type": "number",
+    "label": "Train width (%)",
+    "value": 100
+  },
+  "verticalOffset": {
+    "type": "number",
+    "label": "Vertical offset (px)",
+    "value": 0
+  },
+  "hidden2": {
+    "type": "hidden",
+    "label": "SUB TRAIN OPTIONS"
+  },
+  "trainGiftTriggers": {
+    "type": "dropdown",
+    "label": "Gift subs also trigger?",
+    "value": "yes",
+    "options": {
+      "no": "No",
+      "yes": "Yes"
+    }
+  },
+  "hidden3": {
+    "type": "hidden",
+    "label": "LINE OPTIONS"
+  },
+  "lineColor": {
+    "type": "colorpicker",
+    "label": "Line color",
+    "value": "#FFFFFF"
+  },
+  "lineBGColor": {
+    "type": "colorpicker",
+    "label": "Line background color",
+    "value": "rgba(1, 1, 1, 0.45)"
+  },
+  "lineHeight": {
+    "type": "number",
+    "label": "Line height (px)",
+    "value": 10
+  },
+  "hidden4": {
+    "type": "hidden",
+    "label": "CUSTOM SPRITES OPTIONS"
+  },
+  "spriteStartWidth": {
+    "type": "number",
+    "label": "Moving sprite width (px)",
+    "value": 25
+  },
+  "spriteStartImage": {
+    "type": "image-input",
+    "label": "Moving sprite (image)"
+  },
+  "spriteStartVideo": {
+    "type": "video-input",
+    "label": "Moving sprite (video)"
+  },
+  "spriteEndWidth": {
+    "type": "number",
+    "label": "End sprite width (px)",
+    "value": 25
+  },
+  "spriteEndImage": {
+    "type": "image-input",
+    "label": "End sprite (image)"
+  },
+  "spriteEndVideo": {
+    "type": "video-input",
+    "label": "End sprite (video)"
+  },
+  "hidden5": {
+    "type": "hidden",
+    "label": "TEXT OPTIONS"
+  },
+  "fontFamily": {
+    "type": "googleFont",
+    "label": "Font family",
+    "value": "Passion One"
+  },
+  "fontColor": {
+    "type": "colorpicker",
+    "label": "Font color",
+    "value": "#ffffff"
+  },
+  "fontSize": {
+  	"type": "number",
+    "label": "Font size (px)",
+    "value": 30
+  },
+  "fontWeight": {
+  	"type": "number",
+    "label": "Font weight (px)",
+    "value": 400
+  },
+  "textShadow": {
+    "type": "text",
+    "label": "Text shadow",
+    "value": "0 0 2px #000, 0 0 2px #000"
+  },
+  "textOffsetY": {
+    "type": "number",
+    "label": "Text offset Y (px)",
+    "value": 0
+  },
+  "textOffsetX": {
+    "type": "number",
+    "label": "Text offset X (px)",
+    "value": 0
+  },
+  "textPadding": {
+    "type": "text",
+    "label": "Text padding",
+    "value": "0 10px"
+  },
+  "hidden6": {
+    "type": "hidden",
+    "label": "ICON OPTIONS"
+  },
+  "iconEnabled": {
+    "type": "dropdown",
+    "label": "Show icon?",
+    "value": "yes",
+    "options": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "iconSide": {
+    "type": "dropdown",
+    "label": "Icon side",
+    "value": "left",
+    "options": {
+      "left": "Left",
+      "right": "Right",
+      "top": "Top",
+      "bottom": "Bottom"
+    }
+  },
+  "iconSize": {
+  	"type": "number",
+    "label": "Icon font size (px)",
+    "value": 25
+  },
+  "iconVertical": {
+  	"type": "number",
+    "label": "Icon vertical (px)",
+    "value": 0
+  },
+  "iconPadding": {
+  	"type": "text",
+    "label": "Icon padding",
+    "value": "0 10px"
+  },
+  "shinySpriteStartImage": {
+    "type": "image-input",
+    "label": "Moving shiny sprite (image)"
+  },
+  "shinySpriteStartVideo": {
+    "type": "video-input",
+    "label": "Moving shiny sprite (video)"
+  },
+  "shinySpriteEndImage": {
+    "type": "image-input",
+    "label": "End shiny sprite (image)"
+  },
+  "shinySpriteEndVideo": {
+    "type": "video-input",
+    "label": "End shiny sprite (video)"
+  },
+  "shinySpriteChance": {
+    "type": "number",
+  	"value": 50,
+    "label": "Chance to get a shiny sprite (1-100)"
+  }
+  
+}
