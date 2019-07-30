@@ -28,11 +28,13 @@ So let's say you want to only have the moving part with a shiny version. Then up
 
 # You want to thank me?
 If you want to do me a favour, follow me on twitch or twitter, put me in your streams "thx to these awesome people"-box or maybe buy me a coffee via my donation button on twitch. 
-# But there is no need to. 
+### But there is no need to
 Knowing that people use my work in their streams make me happy though, so send me a pn!
+
 
 Modified Version by Rhapsody_Sky (@Rhaps0dy_Sky | twitch.tv/rhapsody_sky)
 
+# Thanks to those awesome people:
 Copyright to the base version stays with these awesome guys:
 
  * - HarrisHeller (@HarrisCHeller)
